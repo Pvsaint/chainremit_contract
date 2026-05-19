@@ -1,6 +1,7 @@
 # Rust build output
 target/
 Cargo.lock
+test_snapshots
 
 # Soroban / Stellar CLI
 .stellar/
